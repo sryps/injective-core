@@ -7,7 +7,7 @@ require (
 	github.com/CosmWasm/wasmvm v1.5.0
 	github.com/bandprotocol/bandchain-packet v0.0.4
 	github.com/btcsuite/btcd v0.23.4
-	github.com/cometbft/cometbft v0.37.5-0.20240205232226-74d9cc06a8c4
+	github.com/cometbft/cometbft v0.37.5-0.20240206215323-c46532b557a8
 	github.com/cometbft/cometbft-db v0.10.1-0.20240205225927-a6177231a5b1
 	github.com/cosmos/cosmos-sdk v0.47.5
 	github.com/cosmos/go-bip39 v1.0.0
